@@ -78,12 +78,7 @@ Feel free to contribute by submitting pull requests or reporting bugs.
 
 ---
 
-## 📧 **Contact**
-- **Your Name**: Akshat Kumar
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [github.com/your-profile](https://github.com/your-profile)
 
----
 
 **Enjoy predicting diseases responsibly!** 😊
 
